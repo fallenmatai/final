@@ -11,3 +11,6 @@ GPA Calculator უკავშირდება ხელით დაწერ
 ასევე იცვლება dark/light mode.
 
 გაკეთებულია exe ფაილიც მაგრამ ზომის გამო Github-ზე არ აიტვირთა
+
+exe in drive: 
+https://drive.google.com/file/d/15AyplXNcEvXAR-DACllQkjNUib5o6kSs/view?usp=drive_link
