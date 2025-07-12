@@ -12,5 +12,15 @@ GPA Calculator უკავშირდება ხელით დაწერ
 
 გაკეთებულია exe ფაილიც მაგრამ ზომის გამო Github-ზე არ აიტვირთა
 
-exe in drive: 
+full project with exe:
 https://drive.google.com/file/d/15AyplXNcEvXAR-DACllQkjNUib5o6kSs/view?usp=drive_link
+
+ჯგუფის წევრები:
+
+მარიამ ტაბატაძე: ვიჯეტი ‘პროფილი’, საბოლოო ინტერფეისი
+
+ქეთი გაბელაშვილი: ვიჯეტი ‘ბითიუს ძაღლი’, dark/light mode
+
+ანასტასია ჟვანია: ვიჯეტი ‘GPA კალკულატორი’, ბაზის ფაილის შექმნა
+
+ლიკა აბჟანდაძე: ვიჯეტი ‘საშუალო ქულის გამოთვლა’, readme ფაილი
